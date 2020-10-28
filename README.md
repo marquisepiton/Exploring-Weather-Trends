@@ -3,4 +3,6 @@ In this project, I will analyze the local and global temperature data and compar
 ## Tools/Languages I will be using:
 - Python (Libraries: Pandas, Matplotlib, Seaborn)
 - SQL
+- Juyter Notebook
+
 
